@@ -1,0 +1,42 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/jameshawkins/Desktop/projects/desmoto/resources/pattern.jpeg");
+}
+
+#brushes h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: mediumspringgreen;
+}
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#frames h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: skyblue;
+}
+
+h3 {
+  font-family: Helvetica;
+}
